@@ -11,6 +11,7 @@ Task description:
 - User can see the list of added currencies together with their EUR prices.
 - User can remove the cryptocurrencies from the list.
 - The EUR price is fetched from an API service.
+- Push your code to Github, make your repository private, share it to Github user kasparaasamets.
 
 An example query to fetch the current EUR value of BTC currency:
 
