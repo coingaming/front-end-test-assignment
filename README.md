@@ -27,7 +27,7 @@ query price {
 ```
 
 You can explore the Graphiql interface for that API at https://api.blocktap.io/graphiql
-
+Blocktap.io is a third party service that might require registration.
 You may also use any other GraphQL API service to fetch the prices from.
 
 Sample JSON response from the request above:
